@@ -8,7 +8,7 @@
   <br />
 
   <p align="center">
-    <a href="#"><img src="https://img.shields.io/badge/Degree-ADP%20Computer%20Science-7c3aed?style=flat-square&logo=academic-onsite&logoColor=white" alt="Academic Badge" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/Degree-BS%20Computer%20Science-7c3aed?style=flat-square&logo=academic-onsite&logoColor=white" alt="Academic Badge" /></a>
     <a href="#"><img src="https://img.shields.io/badge/Location-Islamabad%2C%20Pakistan-6d28d9?style=flat-square&logo=googlemaps&logoColor=white" alt="Location Badge" /></a>
   </p>
 
@@ -153,7 +153,7 @@ Personal developer portfolio highlighting skills, experience, project showcases,
 | :--- | :--- |
 | **Vibe Coding AI Innovation Challenge Participant** | Registered and developed AI application solutions for regional developer competition (2026). |
 | **Vercel Production Deployments** | Successfully deployed and configured high-performance front-end portfolios and web apps. |
-| **ADP Computer Science Candidate** | Maintained academic performance while engineering production-ready projects. |
+| **BS Computer Science Candidate** | Maintained academic performance while engineering production-ready projects. |
 
 ---
 
@@ -205,7 +205,7 @@ Personal developer portfolio highlighting skills, experience, project showcases,
 ```yaml
 Current Focus:
   Building: SaaS platforms, MVPs & AI-integrated web applications for clients
-  Academic: Completing ADP in Computer Science
+  Academic: Completing BS in Computer Science
   Learning: Advanced German Language (A1 Level) & Distributed Systems
   Target: Pursuing MS in Computer Science in Germany
   Open To: Full-stack contracts, SaaS/MVP builds & AI integration projects
