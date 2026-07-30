@@ -112,13 +112,6 @@ Personal developer portfolio highlighting skills, experience, project showcases,
 
 </details>
 
-<details>
-<br />
-
-*Placeholder — add once the repo is public. This one matters: it's a centerpiece project on your Upwork portfolio, so having it live here too keeps both profiles telling the same story.*
-
-</details>
-
 ---
 
 ## 🧠 AI / NLP Highlights
