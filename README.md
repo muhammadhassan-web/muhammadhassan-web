@@ -198,7 +198,6 @@ Personal developer portfolio highlighting skills, experience, project showcases,
 Current Focus:
   Building: SaaS platforms, MVPs & AI-integrated web applications for clients
   Academic: Completing BS in Computer Science
-  Learning: Advanced German Language (A1 Level) & Distributed Systems
-  Target: Pursuing MS in Computer Science in Germany
+  Learning: Distributed Systems
   Open To: Full-stack contracts, SaaS/MVP builds & AI integration projects
 ```
