@@ -73,7 +73,7 @@ Production-ready web platform that scores news headlines and articles as **FAKE*
 </details>
 
 <details>
-<summary><b>Relay — Real-Time Collaborative Code Editor</b></summary>
+<summary><b>RelaySync — Real-Time Collaborative Code Editor</b></summary>
 <br />
 
 Full-stack real-time collaborative workspace allowing developers to write, edit, and sync code simultaneously across active room sessions.
@@ -86,7 +86,7 @@ Full-stack real-time collaborative workspace allowing developers to write, edit,
 | **Security** | Room isolation, secure WebSockets, sanitized payload handling |
 | **Impact** | Seamless real-time code collaboration platform |
 
-🔗 **Repository**: [Relay Source Code](https://github.com/muhammadhassan-web/Relay-Real-Time-Collaborative-Code-Editor)
+🔗 **Repository**: [RelaySync Source Code](https://github.com/muhammadhassan-web/RelaySync-Real-Time-Collaborative-Code-Editor)
 
 ---
 
@@ -132,7 +132,7 @@ Personal developer portfolio highlighting skills, experience, project showcases,
 
 - Architected and deployed full-stack SaaS/MVP-style web applications using React, Next.js, Node.js, and MongoDB.
 - Built and containerized an AI/NLP web service (FakeScope) using Flask, Docker, and Scikit-Learn.
-- Integrated real-time features using WebSockets and state synchronization (Relay).
+- Integrated real-time features using WebSockets and state synchronization (RelaySync).
 - Delivered clean, typed, production-ready code using TypeScript and modern component patterns.
 
 `React` `Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Python` `Docker` `Tailwind CSS`
